@@ -1,0 +1,73 @@
+.btn1 {
+    background-color: white;
+    border: 2px solid rgb(42, 42, 252);
+    padding: 7px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 2px 2px rgb(100, 100, 219);
+    color: blue;
+    font-size: large;
+    font-weight: 540;
+}
+
+.btn1:hover {
+    background-color: rgb(42, 42, 252);
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 2px 2px rgb(100, 100, 219);
+    color: white;
+    font-size: large;
+    font-weight: 540;
+}
+
+.btn2 {
+    background-color: white;
+    border: 2px solid rgb(220, 252, 42);
+    padding: 7px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 2px 2px rgb(219, 217, 100);
+    color: rgb(65, 63, 63);
+    font-size: large;
+    font-weight: 540;
+}
+
+.btn2:hover {
+    background-color: rgb(220, 252, 42);
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 2px 2px rgb(219, 217, 100);
+    color: rgb(65, 63, 63);
+    font-size: large;
+    font-weight: 540;
+}
+
+.empty {
+    width: 50%;
+    border: 1px solid red;
+    padding: 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 2px 2px rgb(219, 100, 100);
+    font-style: italic;
+    font-size: large;
+}
